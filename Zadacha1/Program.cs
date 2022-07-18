@@ -18,7 +18,7 @@
 // {
 // // int Number1 = number / 100; // Если нужно первое число
 // int Number2 = (number / 10) % 10;
-// // int Number3 = number % 10; // Если нужно второе число
+// // int Number3 = number % 10; // Если нужно третье число
 // Console.WriteLine("Вторая цифра числа: " + Number2);
 // }
 // else
@@ -40,5 +40,5 @@
 // }
 // // int Number1 = number / 100; // Если нужно первое число
 // int Number2 = (number / 10) % 10;
-// // int Number3 = number % 10; // Если нужно второе число
+// // int Number3 = number % 10; // Если нужно третье число
 // Console.WriteLine("Вторая цифра числа: " + Number2);
