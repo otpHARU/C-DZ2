@@ -14,7 +14,7 @@
 
 // Console.WriteLine("Введите трёхзначное число: ");
 // int number = Convert.ToInt32(Console.ReadLine());
-// if (number > 100 && number < 999)
+// if (number >= 100 && number <= 999)
 // {
 // // int Number1 = number / 100; // Если нужно первое число
 // int Number2 = (number / 10) % 10;
